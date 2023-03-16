@@ -1,5 +1,3 @@
-[5:03 PM] Venkata Perumalla (Guest)
-    
 FROM ubuntu:16.04
 LABEL MAINTAINER babjipvr@gmail.com
 RUN apt-get update \
