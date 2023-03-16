@@ -1,2 +1,2 @@
-FROM maven:3.5.3-jdk-8-alpine
-COPY ./. /
+FROM nginx
+COPY index.html /usr/share/nginx/html/index.html
